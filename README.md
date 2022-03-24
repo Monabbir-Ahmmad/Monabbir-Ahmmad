@@ -1,4 +1,4 @@
-### Hello there fellow coders <img align="left" width="26px" alt="gif" src="https://github.com/Monabbir-Ahmmad/Monabbir-Ahmmad/blob/main/uwu-emoji.gif" />
+## Hello there fellow coders <img align="right" width="26px" alt="gif" src="https://github.com/Monabbir-Ahmmad/Monabbir-Ahmmad/blob/main/uwu-emoji.gif" />
 
 # Monabbir Ahmmad Tajbir
 
@@ -42,7 +42,8 @@ Aside from these things, I also have a keen interest in learning new skills from
 - 🤔 I’m looking for help with research on blockchain and web3
 - 💬 Ask me about: Coding, Anime, Games, Manga, Cooking
 - ⚡ Fun fact: I love watching anime and cooking delicious foods
-- <br/>
+
+<br/>
 
 # Connect with me
 
