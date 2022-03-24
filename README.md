@@ -13,4 +13,4 @@ Aside from these things, I also have a keen interest in learning new skills from
 - ⚡ Fun fact: I love watching anime and cooking delicious foods
 
 # Languages and Tools
-[<img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"/>]
+<img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" />
