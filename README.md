@@ -1,6 +1,6 @@
 ### Hello there fellow coders 👋
 
-## Monabbir Ahmmad Tajbir
+# Monabbir Ahmmad Tajbir
 
 I'm Tajbir from Bangladesh, an aspiring Software Engineer and a Web Developer currently pursuing a bachelor's degree in Software Engineering at IICT, SUST. My areas of interest are Machine learning, Artificial intelligence, Computer vision, Deep learning, Neural network, Web3, Blockchain, Game development and Software architecture.
 
@@ -19,6 +19,7 @@ Aside from these things, I also have a keen interest in learning new skills from
 <img align="left" width="26px" alt="ReactJS" src="https://img.icons8.com/color/344/react-native.png" />
 <img align="left" width="26px" alt="Redux" src="https://img.icons8.com/color/344/redux.png" />
 <img align="left" width="26px" alt="NodeJS" src="https://img.icons8.com/color/344/nodejs.png" />
+<img align="left" width="26px" alt=".Net core" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png" />
 <img align="left" width="26px" alt="Material UI" src="https://img.icons8.com/color/344/material-ui.png" />
 <img align="left" width="26px" alt="MongoDB" src="https://img.icons8.com/color/344/mongodb.png" />
 <img align="left" width="26px" alt="MySQL" src="https://img.icons8.com/color/344/mysql-logo.png" />
@@ -41,8 +42,7 @@ Aside from these things, I also have a keen interest in learning new skills from
 - 🤔 I’m looking for help with research on blockchain and web3
 - 💬 Ask me about: Coding, Anime, Games, Manga, Cooking
 - ⚡ Fun fact: I love watching anime and cooking delicious foods
-
-<br/>
+- <br/>
 
 # Connect with me
 
@@ -52,4 +52,4 @@ Aside from these things, I also have a keen interest in learning new skills from
 
 [linkedin]: https://www.linkedin.com/in/monabbir-ahmmad-tajbir-467144235
 [email]: monabbir.ahmmad@gmail.com
-[facebook]:https://www.facebook.com/monabbir.ahmmad
+[facebook]: https://www.facebook.com/monabbir.ahmmad
