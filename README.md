@@ -8,7 +8,7 @@ Aside from these things, I also have a keen interest in learning new skills from
 
 # Languages and Tools
 
-<img align="left" width="26px" alt="JavaScript" src="https://img.icons8.com/color/344/javascript--v1.png" />
+[<img align="left" width="26px" alt="JavaScript" src="https://img.icons8.com/color/344/javascript--v1.png" />
 <img align="left" width="26px" alt="TypeScript" src="https://img.icons8.com/color/344/typescript.png" />
 <img align="left" width="26px" alt="Python" src="https://img.icons8.com/color/344/python--v1.png" />
 <img align="left" width="26px" alt="C#" src="https://img.icons8.com/color/344/c-sharp-logo.png" />
@@ -26,7 +26,7 @@ Aside from these things, I also have a keen interest in learning new skills from
 <img align="left" width="26px" alt="Github" src="https://img.icons8.com/color/344/github--v1.png" />
 <img align="left" width="26px" alt="Android Studio" src="https://img.icons8.com/color/344/android-studio--v3.png" />
 <img align="left" width="26px" alt="VS code" src="https://img.icons8.com/color/344/visual-studio-code-2019.png" />
-<img align="left" width="26px" alt="Unity" src="https://img.icons8.com/color/344/unity.png" />
+<img align="left" width="26px" alt="Unity" src="https://img.icons8.com/color/344/unity.png" />]
 
 # Some things about me
 
