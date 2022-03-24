@@ -11,3 +11,6 @@ Aside from these things, I also have a keen interest in learning new skills from
 - 🤔 I’m looking for help with research on blockchain and web3
 - 💬 Ask me about: Coding, Anime, Games, Manga, Cooking
 - ⚡ Fun fact: I love watching anime and cooking delicious foods
+
+# Languages and Tools
+![image](https://user-images.githubusercontent.com/57152487/160014511-652eebd5-d881-48ca-beab-75d8260d9288.png)
