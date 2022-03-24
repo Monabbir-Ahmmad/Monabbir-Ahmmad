@@ -1,4 +1,4 @@
-### Hi there! Tajbir here <img align="center" width="60px" alt="gif" src="https://github.com/Monabbir-Ahmmad/Monabbir-Ahmmad/blob/main/uwu-emoji.gif" />
+## Hi there! Tajbir here <img align="center" width="60px" alt="gif" src="https://github.com/Monabbir-Ahmmad/Monabbir-Ahmmad/blob/main/uwu-emoji.gif" />
 
 I'm Monabbir Ahmmad Tajbir from Bangladesh, an aspiring Software Engineer and a Web Developer currently pursuing a bachelor's degree in Software Engineering at IICT, SUST. My areas of interest are Machine learning, Artificial intelligence, Computer vision, Deep learning, Neural network, Web3, Blockchain, Game development and Software architecture.
 
