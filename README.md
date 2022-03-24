@@ -46,9 +46,8 @@ Aside from these things, I also have a keen interest in learning new skills from
 # Connect with me
 
 [<img align="left" width="34px" alt="Linkedin" src="https://img.icons8.com/color/344/linkedin.png" />][linkedin]
-[<img align="left" width="34px" alt="Email" src="https://img.icons8.com/color/344/email-sign.png" />][email]
+<a href="mailto:monabbir.ahmmad@gmail.com?"><img align="left" width="34px" alt="Email" src="https://img.icons8.com/color/344/email-sign.png" /></a>
 [<img align="left" width="34px" alt="Facebook" src="https://img.icons8.com/color/344/facebook-new.png" />][facebook]
 
 [linkedin]: https://www.linkedin.com/in/monabbir-ahmmad-tajbir-467144235
-[email]: monabbir.ahmmad@gmail.com
 [facebook]: https://www.facebook.com/monabbir.ahmmad
