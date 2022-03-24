@@ -1,4 +1,4 @@
-## Hello there fellow coders <img align="center" width="40px" alt="gif" src="https://github.com/Monabbir-Ahmmad/Monabbir-Ahmmad/blob/main/uwu-emoji.gif" />
+## Hello there fellow coders <img align="center" width="60px" alt="gif" src="https://github.com/Monabbir-Ahmmad/Monabbir-Ahmmad/blob/main/uwu-emoji.gif" />
 
 # Monabbir Ahmmad Tajbir
 
