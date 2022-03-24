@@ -6,7 +6,6 @@ I'm Tajbir from Bangladesh, an aspiring Software Engineer and a Web Developer cu
 
 Aside from these things, I also have a keen interest in learning new skills from other people and applying them in my everyday life and professional works.
 
-
 # Languages and Tools
 
 <img align="left" width="26px" alt="JavaScript" src="https://img.icons8.com/color/344/javascript--v1.png" />
@@ -29,11 +28,21 @@ Aside from these things, I also have a keen interest in learning new skills from
 <img align="left" width="26px" alt="VS code" src="https://img.icons8.com/color/344/visual-studio-code-2019.png" />
 <img align="left" width="26px" alt="Unity" src="https://img.icons8.com/color/344/unity.png" />
 
-
 # Some things about me
+
 - 🔭 I’m currently working on: Web Applications
 - 🌱 I’m currently learning: .NET Core, Angular, Django
 - 👯 I’m looking to collaborate on large web projects
 - 🤔 I’m looking for help with research on blockchain and web3
 - 💬 Ask me about: Coding, Anime, Games, Manga, Cooking
 - ⚡ Fun fact: I love watching anime and cooking delicious foods
+
+# Connect with me
+
+[<img align="left" width="34px" alt="Linkedin" src="https://img.icons8.com/color/344/linkedin.png" />][linkedin]
+[<img align="left" width="34px" alt="Email" src="https://img.icons8.com/color/344/email-sign.png" />][email]
+[<img align="left" width="34px" alt="Facebook" src="https://img.icons8.com/color/344/facebook-new.png" />][facebook]
+
+[linkedin]: https://www.linkedin.com/in/monabbir-ahmmad-tajbir-467144235
+[email]: monabbir.ahmmad@gmail.com
+[facebook]:https://www.facebook.com/monabbir.ahmmad
