@@ -1,6 +1,6 @@
 ## Hi there! Tajbir here <img align="center" width="60px" alt="gif" src="https://github.com/Monabbir-Ahmmad/Monabbir-Ahmmad/blob/main/uwu-emoji.gif" />
 
-I'm Monabbir Ahmmad Tajbir from Bangladesh, an aspiring Software Engineer and a Web Developer currently pursuing a bachelor's degree in Software Engineering at IICT, SUST. Currently I'm interested in Web development, Android app development, Game development, Machine learning, Artificial intelligence, Computer vision, Deep learning, Neural network, Web3, Blockchain and Software architecture.
+I'm Monabbir Ahmmad Tajbir, an aspiring Software Engineer from Bangladesh. I'm currently pursuing a bachelor's degree in Software Engineering at the Institute of Information and Communication Technology, Shahjalal University of Science and Technology. For a long time I've been interested in topics like Software development, Web development, Android app development, Game development, Machine learning, Artificial intelligence, Computer vision, Deep learning, Neural network, Web3, Blockchain and Software architecture.
 
 Aside from these things, I also have a keen interest in learning new skills from other people and applying them in my everyday life and professional works. I like managing group works and try my best to help people code.
 
