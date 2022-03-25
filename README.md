@@ -9,7 +9,7 @@ Aside from these things, I also have a keen interest in learning new skills from
 ## Languages and Tools
 
 <p float="left">
-<img width="26" margin="50"  alt="JavaScript" src="https://img.icons8.com/color/344/javascript--v1.png" />
+<img width="26" alt="JavaScript" src="https://img.icons8.com/color/344/javascript--v1.png" />
 <img width="26" alt="TypeScript" src="https://img.icons8.com/color/344/typescript.png" />
 <img width="26" alt="Python" src="https://img.icons8.com/color/344/python--v1.png" />
 <img width="26" alt="C#" src="https://img.icons8.com/color/344/c-sharp-logo.png" />
