@@ -6,7 +6,7 @@ Aside from these things, I also have a keen interest in learning new skills from
 
 <br/>
 
-# Languages and Tools
+## Languages and Tools
 
 <img align="left" width="26px" alt="JavaScript" src="https://img.icons8.com/color/344/javascript--v1.png" />
 <img align="left" width="26px" alt="TypeScript" src="https://img.icons8.com/color/344/typescript.png" />
@@ -32,7 +32,8 @@ Aside from these things, I also have a keen interest in learning new skills from
 <br/>
 
 <br/>
-# Some things about me
+
+## Some things about me
 
 - 🔭 I’m currently working on: Web Applications
 - 🌱 I’m currently learning: .NET Core, Angular, Django
@@ -42,7 +43,7 @@ Aside from these things, I also have a keen interest in learning new skills from
 - ⚡ Fun fact: I love watching anime and cooking delicious foods
 <br/>
 
-# Connect with me
+## Connect with me
 
 [<img align="left" width="34px" alt="Linkedin" src="https://img.icons8.com/color/344/linkedin.png" />][linkedin]
 <a href="mailto:monabbir.ahmmad@gmail.com?"><img align="left" width="34px" alt="Email" src="https://img.icons8.com/color/344/email-sign.png" /></a>
