@@ -17,11 +17,13 @@ Aside from these things, I also have a keen interest in learning new skills from
 [<img width="34" alt="Java" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" />][Java]
 [<img width="34" alt="ReactJS" src="https://img.icons8.com/color/344/react-native.png" />][ReactJS]
 [<img width="34" alt="Redux" src="https://img.icons8.com/color/344/redux.png" />][Redux]
-[<img width="34" alt="NodeJS" src="https://img.icons8.com/color/344/nodejs.png" />][NodeJs]
+[<img width="34" alt="NodeJS" src="https://iconape.com/wp-content/png_logo_vector/node-js-2.png" />][Nodejs]
+[<img width="34" alt="ExpressJS" src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" />][ExpressJs]
 [<img width="34" alt=".Net core" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png" />][DotNetCore]
 [<img width="34" alt="Material UI" src="https://img.icons8.com/color/344/material-ui.png" />][MaterialUI]
 [<img width="34" alt="MongoDB" src="https://img.icons8.com/color/344/mongodb.png" />][MongoDB]
-[<img width="34" alt="MySQL" src="https://img.icons8.com/color/344/mysql-logo.png" />][MySQL]
+[<img width="34" alt="MySQL" src="https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_1280,h_1280/https://keytotech.com/wp-content/uploads/2019/05/mysql_PNG23.png" />][MySQL]
+[<img width="34" alt="Sequelize" src="https://doc.esdoc.org/github.com/sequelize/sequelize/image/brand_logo.png" />][Sequelize]
 [<img width="34" alt="HTML" src="https://img.icons8.com/color/344/html-5--v1.png" />][HTML]
 [<img width="34" alt="CSS" src="https://img.icons8.com/color/344/css3.png" />][CSS]
 [<img width="34" alt="Git" src="https://img.icons8.com/color/344/git.png" />][Git]
@@ -61,10 +63,12 @@ Aside from these things, I also have a keen interest in learning new skills from
 [ReactJS]: https://reactjs.org/
 [Redux]: https://redux.js.org/
 [NodeJs]: https://nodejs.org/en/
+[ExpressJs]: https://expressjs.com/
 [DotNetCore]: https://dotnet.microsoft.com/en-us/
 [MaterialUI]: https://material.io/
 [MongoDB]: https://www.mongodb.com/
 [MySQL]: https://www.mysql.com/
+[Sequelize]: https://sequelize.org
 [HTML]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [CSS]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [Git]: https://git-scm.com/
