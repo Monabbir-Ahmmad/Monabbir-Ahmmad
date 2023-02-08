@@ -5,10 +5,10 @@ I'm an aspiring full-stack Software Engineer from Bangladesh currently pursuing 
 
 ### Some fun facts about me
 
-- 🔭 I’m currently working on an inventory management system
-- 🌱 I’m currently trying to learn about TensorFlow and OpenCV
-- ❓ Ask me about anything related to Coding, Anime, Games, Manga or Cooking
-- ⚡ Fun fact: I love watching anime and cooking delicious foods
+- 🔭 I’m currently enjoying life while I can.
+- 🌱 I’m currently learning about TensorFlow and Neural network.
+- ❓ Ask me about anything related to Coding, Anime, Games, Manga or Cooking.
+- ⚡ Fun fact: Yes, AI will take your jobs. It's inevitable.
 
 <br/>
 
