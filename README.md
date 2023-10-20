@@ -19,10 +19,10 @@ I'm an aspiring full-stack Software Engineer from Bangladesh currently pursuing 
 
 ### Some fun facts about me
 
-- 🔭 I’m currently enjoying life while I can.
-- 🌱 I’m currently learning about TensorFlow and Neural network.
+- 🔭 I’m currently working on my thesis.
+- 🌱 I’m currently learning about Generative AI.
 - ❓ Ask me about anything related to Coding, Anime, Games, Manga or Cooking.
-- ⚡ Fun fact: Yes, AI will take your jobs. It's inevitable.
+- ⚡ Fun fact: AI will take your jobs. It's inevitable.
 
 <br/>
 
