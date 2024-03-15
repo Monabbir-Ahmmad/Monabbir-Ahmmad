@@ -15,12 +15,12 @@
 
 <br/>
 
-I'm an aspiring full-stack Software Engineer from Bangladesh currently pursuing a bachelor's degree in Software Engineering at the Institute of Information and Communication Technology, Shahjalal University of Science and Technology.</div>
+I'm a full-stack Software Engineer from Bangladesh currently working as an associate software engineer at Cefalo Bangladesh Ltd.
 
 ### Some fun facts about me
 
-- 🔭 I’m currently working on my thesis.
-- 🌱 I’m currently learning about Generative AI.
+- 🔭 I’m currently working on processing data from Wikipedia.
+- 🌱 I’m currently learning about data engineering.
 - ❓ Ask me about anything related to Coding, Anime, Games, Manga or Cooking.
 - ⚡ Fun fact: AI will take your jobs. It's inevitable.
 
