@@ -1,8 +1,12 @@
-# Hi there! I'm Monabbir Ahmmad Tajbir <img src="https://raw.githubusercontent.com/Monabbir-Ahmmad/Monabbir-Ahmmad/main/uwu-emoji.gif" width="32" />
+<div align="center">
+  <img src="./banner.svg" width="100%" alt="A rainy neon city at night. A glitching name sits next to a terminal that runs data jobs during the day and ships software late at night." />
+</div>
+
+# Hi there! I'm Tajbir
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Data+engineer+by+day;Taming+messy+sensor+data;Forecast+whisperer+(retired%2C+mostly);Anime%2C+games+%26+cooking+on+the+side" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=F3E600&center=true&vCenter=true&width=600&lines=Data+engineer+by+day;Software+engineer+by+night;Taming+messy+sensor+data;Forecast+whisperer;Anime%2C+games+%26+cooking+on+the+side" alt="Typing SVG" />
 
 <br/>
 
@@ -19,11 +23,11 @@
 
 Software engineer from Bangladesh 🇧🇩 who spends most days convincing data pipelines to behave.
 
-- ☀️ By day I'm a data engineer for **[Sensa](https://www.sensa.no/)**, through **Cefalo**, helping turn messy industrial sensor data into something people can actually trust. A lot of it comes from fish farms. Yes, really.
-- 🔙 Before that I spent two years making energy market forecasts faster and less wrong for **Volue**.
-- 🌙 By night I'm at **KLS Innovations**, shipping SaaS, fintech and AI things.
+- ☀️ By day I'm a data engineer, turning messy industrial sensor data into something people can actually trust.
+- 🌙 By night I'm a software engineer, shipping SaaS, fintech, and AI things.
+- 🔙 Before all that, I spent two years making energy market forecasts faster and less wrong.
 - 🤓 Currently obsessed with data engineering and teaching LLMs to use tools (MCP).
-- 🍜 Off the keyboard it's anime, manga, games and cooking. I take all four _very_ seriously.
+- 🍜 Off the keyboard, it's anime, manga, games, and cooking. I take all four _very_ seriously.
 - ⚡ Fun fact: AI will take your jobs. It's inevitable. _(I'm helping.)_
 
 👉 The long version, with diagrams, lives on **[my portfolio](https://monabbir-ahmmad.github.io/)**.
@@ -35,7 +39,7 @@ Software engineer from Bangladesh 🇧🇩 who spends most days convincing data 
 - 🚀 Made a forecasting model **85% faster** (about 40 min down to 5 or 6). It now finishes before my coffee does.
 - 🎯 Dragged forecast error from **20%+** down to **~8%** with a Kalman filter and a lot of stubbornness.
 - 🔌 Found out that French nuclear output moves when the **neighbours'** reactors go offline. Adding that one feature beat every fancier idea.
-- 🛠️ Kept **20+ data pipelines** fed and happy. Some of them wanted fresh data every 15 minutes. Very needy.
+- 🛠️ Kept **20+ data pipelines** fed and happy. Some needed fresh data every 15 minutes. Very needy.
 - 💸 Built a fintech platform that **15k+ people** actually use (no pressure or anything).
 - 🇧🇩 Built a **Bengali benchmark** for catching machine-written news, because nobody had one. The best model hit 97.5%.
 
