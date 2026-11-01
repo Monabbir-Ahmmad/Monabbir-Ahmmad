@@ -113,10 +113,6 @@ Software engineer from Bangladesh 🇧🇩 who spends most days convincing data 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Monabbir-Ahmmad&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=Monabbir-Ahmmad&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <br/>
